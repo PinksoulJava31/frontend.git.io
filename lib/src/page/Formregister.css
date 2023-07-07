@@ -1,0 +1,24 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: rgb(43, 7, 7);
+  }
+  
+  td, th {
+    border: 1px solid #d771d2;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f6b4f0;
+  }
+  btn btn-info DELETE{
+    height: 30px;
+    background-color: rgb(74, 197, 156);
+    color: white;
+    border-radius: 4px;
+    
+  }
+  

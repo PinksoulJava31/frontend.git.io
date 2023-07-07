@@ -1,0 +1,61 @@
+body, ul {
+  margin: 0;
+  padding: 0;
+}
+/* Style the header and menu */
+header {
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+nav ul.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul.menu li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul.menu li a {
+text-decoration: none;
+padding: 5px 10px;
+color: #333;
+}
+
+nav ul.menu li a:hover {
+background-color: #333;
+color: #fff;
+}
+
+/* Style the hero section */
+
+
+.hero-content {
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+hero p {
+  font-size: 18px;
+}
+
+/* Style the footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+} 
+
+.hero-content {
+  text-align: center;
+}
+
+.hero p {
+  font-size: 20px;
+}
